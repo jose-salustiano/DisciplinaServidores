@@ -1,0 +1,14 @@
+body{
+    background-color: rgb(90, 88, 88);
+}
+a:link, a:visited, a:active{
+	font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size:17px;
+	color:#920909;
+}
+a:hover{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+	text-decoration:underline overline;
+	font-size:17px;
+	color: #b8860b;
+}
